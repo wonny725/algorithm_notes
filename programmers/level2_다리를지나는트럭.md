@@ -58,7 +58,7 @@ class Solution {
         return time;
     }
 }
-
+```
 ---
 
 ## 💻 **고수 코드**
@@ -101,3 +101,4 @@ class Solution {
         return time;
     }
 }
+```
