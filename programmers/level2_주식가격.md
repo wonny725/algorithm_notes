@@ -29,7 +29,7 @@ class Solution {
 ```
 ---
 
-## 💻 **고수 코드**
+## 💻 **참조 코드**
 ```java
 import java.util.Stack;
 
